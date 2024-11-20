@@ -7,6 +7,7 @@ ChatGPT: Para criação de textos realistas e reflexivos.
 DALL·E: Para gerar imagens com base em descrições criativas.
 Canva: Para edição e integração dos conteúdos criados.
 GitHub: Para documentação e compartilhamento do projeto.
+
 🧐 Processo de Criação
 Planejamento:
 
@@ -17,12 +18,11 @@ Produção dos Conteúdos:
 Texto: Criado com o ChatGPT, refletindo sobre o impacto das IAs generativas.
 Imagens: Produzidas no DALL·E com prompts específicos para explorar a temática.
 Documentação:
-
 Os conteúdos foram organizados em uma pasta chamada resultados/ no repositório.
 Detalhes e links para cada criação estão listados abaixo.
+
 🚀 Resultados
 Os conteúdos gerados incluem:
-
 Texto Reflexivo: Uma análise sobre o impacto das IAs generativas no mundo atual.
 Imagens: Disponíveis na pasta /resultados/imagens.
 
@@ -33,8 +33,9 @@ Vivemos um momento fascinante da história, onde a linha entre o que é natural 
 
 De textos que emocionam a imagens que parecem criadas por artistas renomados, essas tecnologias estão transformando a forma como nos comunicamos, aprendemos e criamos. Mas será que conseguimos distinguir o "natty" (autêntico) do "fake natty" (criado artificialmente)?
 
-Leia mais aqui!
 
 💭 Reflexão
 Este projeto foi uma experiência enriquecedora que mostrou o poder das IAs generativas em criar conteúdos realistas. Contudo, também levantou questões importantes sobre ética, autenticidade e responsabilidade no uso dessas tecnologias.
+
+![Texto Alternativo](https://github.com/vandinha07/lab-natty-or-not/blob/main/Projeto%20Inteligencia%20Artificial.png?raw=true)
 
